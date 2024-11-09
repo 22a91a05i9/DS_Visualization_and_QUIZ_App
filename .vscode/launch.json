@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "SettingArrays",
+            "request": "launch",
+            "mainClass": "codes.SettingArrays",
+            "projectName": "Easy DS - Quiz_b1460e6d"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Easy DS - Quiz_b1460e6d"
+        },
+        {
+            "type": "java",
+            "name": "DatabaseConnection",
+            "request": "launch",
+            "mainClass": "codes.DatabaseConnection",
+            "projectName": "Easy DS - Quiz_b1460e6d"
+        },
+        {
+            "type": "java",
+            "name": "DatabaseConnection",
+            "request": "launch",
+            "mainClass": "DatabaseConnection",
+            "projectName": "Easy DS - Quiz_b1460e6d"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Easy DS_df7277db"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Easy DS_b3430e61"
+        }
+    ]
+}
